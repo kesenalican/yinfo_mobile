@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "619103066314",
+    "project_id": "yinfo-965db",
+    "storage_bucket": "yinfo-965db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619103066314:android:425192c9d91ce3bbb2bc33",
+        "android_client_info": {
+          "package_name": "com.mobile.yinfo_mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXBJcgJw2OqxVpfvZ_PYOWFhGAyvxLZAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
